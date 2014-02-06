@@ -1,9 +1,0 @@
-StudyName	NSBExperiment
-PI	Rafael Irizarry
-Type_of_Study	Assessment
-Manufacturer	Affymetrix
-Product	GeneChip
-Species	Varied
-Tissue	Varied
-Protocol	Standard
-Description	Coming soon.

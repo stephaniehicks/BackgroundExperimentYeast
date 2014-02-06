@@ -1,7 +1,0 @@
-label	sample_type	filename	biorep	tecrep
-RIri-BA-Empty-1a.regrid-U95Av2	0	empty	RIri-BA-Empty-1a.regrid-U95Av2.CEL	1	1
-RIri-BA-NoRNA-1a-U95Av2	1	no RNA	RIri-BA-NoRNA-1a-U95Av2.CEL	2	1
-RIri-BA-NotLabeled-1a-u95Av2	0	human	RIri-BA-NotLabeled-1a-u95Av2.CEL	3	1
-RIri-BA-YCB617-1a-U95Av2	1	yeast genomic DNA	RIri-BA-YCB617-1a-U95Av2.CEL	4	1
-RIri-BA-polyCRNA-1a-U95Av2	1	poly C	RIri-BA-polyCRNA-1a-U95Av2.CEL	5	1
-RIri-BA-polyGRNA-1a-U95Av2	1	poly G	RIri-BA-polyGRNA-1a-U95Av2.CEL	6	1
