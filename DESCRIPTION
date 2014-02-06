@@ -1,0 +1,12 @@
+Package: BackgroundExperimentYeast
+Title: Background Experiment measuring NSB and Optical Noise in Yeast
+Description: This is a data package containing microarray samples for a
+    background experiment to measure NSB and optical noise in yeast.
+Version: 0.1
+Authors@R: person("Stephanie", "Hicks", role = c("aut", "cre"), email =
+    "shicks@jimmy.harvard.edu") # getOptions('devtools.desc.author')
+Author: Stephanie Hicks
+Depends:
+    R (>= 3.0.2)
+License: # getOptions('devtools.desc.license')
+LazyData: true
