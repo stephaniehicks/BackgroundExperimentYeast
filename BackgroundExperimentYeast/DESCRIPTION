@@ -1,0 +1,7 @@
+Package: BackgroundExperimentYeast
+Title: Background Experiment measuring NSB and Optical Noise in Yeast
+Version: 0.1
+Author: Stephanie Hicks
+Maintainer: Stephanie Hicks <shicks@jimmy.harvard.edu>
+Description: This is a data package containing microarray samples for a
+    background experiment to measure NSB and optical noise in yeast.
