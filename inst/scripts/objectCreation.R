@@ -1,5 +1,5 @@
 library(affy)
 
-setwd("~/BackgroundExperimentYeast/")
-Data <- ReadAffy(celfile.path = "inst/extdata")
-save(Data, file="data/background.rda")
+setwd("~/BackgroundExperimentYeast")
+backgroundData <- ReadAffy(celfile.path = "inst/extdata", phenoData = "inst/extdata/pdata.txt")
+save(backgroundData, file="data/backgroundData.rda")
