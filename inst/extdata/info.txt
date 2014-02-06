@@ -1,0 +1,7 @@
+RIri-BA-Empty-1a.regrid-U95Av2	0	empty
+RIri-BA-NoRNA-1a-U95Av2	1	no RNA
+RIri-BA-NotLabeled-1a-u95Av2	0	human
+RIri-BA-YCB617-1a-U95Av2	1	yeast genomic DNA
+RIri-BA-polyCRNA-1a-U95Av2	1	poly C
+RIri-BA-polyGRNA-1a-U95Av2	1	poly G
+
